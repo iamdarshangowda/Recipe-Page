@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: left;
+}
+
+header {
+  border: 1px solid red;
+  margin: 50px 237px;
+}
+
+.heading {
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+header p {
+  color: #4f4f4f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  font-style: italic;
+  width: 529px;
+  height: 51px;
+  padding-left: 25px;
+}
+
+img {
+  margin-top: 20px;
+  width: 969px;
+  height: 444px;
+  border-radius: 12px;
+}
+
+.side-tab {
+  width: 216px;
+  height: 367px;
+  margin-right: 240px;
+  border: 1px solid red;
+}
